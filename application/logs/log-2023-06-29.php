@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-06-29 11:35:44 --> 404 Page Not Found: admin/Admin_controller/all_users
+ERROR - 2023-06-29 11:35:57 --> 404 Page Not Found: admin/Admin_controller/privilege_type
+ERROR - 2023-06-29 11:38:24 --> 404 Page Not Found: admin/Admin_controller/privilege_group
+ERROR - 2023-06-29 12:08:26 --> 404 Page Not Found: admin/Admin_controller/calculate_user_daily_work_time
+ERROR - 2023-06-29 12:22:03 --> 404 Page Not Found: admin/Privilege_type/edit_privilege_type
+ERROR - 2023-06-29 12:22:06 --> 404 Page Not Found: admin/Privilege_type/edit_privilege_type
+ERROR - 2023-06-29 12:22:09 --> 404 Page Not Found: Assets/js
+ERROR - 2023-06-29 12:22:09 --> 404 Page Not Found: Assets/css
+ERROR - 2023-06-29 12:23:55 --> 404 Page Not Found: Assets/css
+ERROR - 2023-06-29 12:23:55 --> 404 Page Not Found: Assets/js
+ERROR - 2023-06-29 13:07:28 --> 404 Page Not Found: admin/Admin_controller/privilege_group
+ERROR - 2023-06-29 13:14:48 --> 404 Page Not Found: admin/privileges/Privilege_group/index
+ERROR - 2023-06-29 13:25:37 --> 404 Page Not Found: Assets/js
+ERROR - 2023-06-29 13:25:37 --> 404 Page Not Found: Assets/css
+ERROR - 2023-06-29 13:25:42 --> 404 Page Not Found: Assets/css
+ERROR - 2023-06-29 13:25:43 --> 404 Page Not Found: Assets/js
+ERROR - 2023-06-29 13:25:51 --> 404 Page Not Found: Assets/css
+ERROR - 2023-06-29 13:25:51 --> 404 Page Not Found: Assets/js
+ERROR - 2023-06-29 13:25:54 --> 404 Page Not Found: Assets/css
+ERROR - 2023-06-29 13:25:54 --> 404 Page Not Found: Assets/js
+ERROR - 2023-06-29 13:26:44 --> 404 Page Not Found: Assets/css
+ERROR - 2023-06-29 13:26:44 --> 404 Page Not Found: Assets/js
+ERROR - 2023-06-29 13:31:17 --> 404 Page Not Found: admin/Admin_controller/privilege_group_type
+ERROR - 2023-06-29 14:07:07 --> 404 Page Not Found: Assets/js
+ERROR - 2023-06-29 14:07:20 --> 404 Page Not Found: Assets/js
+ERROR - 2023-06-29 14:08:04 --> 404 Page Not Found: Assets/js
+ERROR - 2023-06-29 14:08:05 --> 404 Page Not Found: Assets/js

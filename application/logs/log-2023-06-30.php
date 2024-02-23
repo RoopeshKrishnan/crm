@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-06-30 08:12:44 --> 404 Page Not Found: admin/Admin_controller/create_shift
+ERROR - 2023-06-30 08:44:55 --> 404 Page Not Found: Create-socials/index
+ERROR - 2023-06-30 08:45:16 --> 404 Page Not Found: Create-social-media/index
+ERROR - 2023-06-30 08:49:13 --> 404 Page Not Found: admin/Admin_controller/add_socials
+ERROR - 2023-06-30 08:49:15 --> 404 Page Not Found: admin/Admin_controller/add_socials
+ERROR - 2023-06-30 08:49:18 --> 404 Page Not Found: admin/Admin_controller/add_socials
+ERROR - 2023-06-30 08:49:18 --> 404 Page Not Found: admin/Admin_controller/add_socials
+ERROR - 2023-06-30 08:55:06 --> 404 Page Not Found: admin/Admin_controller/create_website
+ERROR - 2023-06-30 09:36:36 --> 404 Page Not Found: admin/Admin_controller/add_other_source
+ERROR - 2023-06-30 09:36:39 --> 404 Page Not Found: admin/Admin_controller/add_other_source
+ERROR - 2023-06-30 09:37:15 --> 404 Page Not Found: admin/Admin_controller/add_other_source
+ERROR - 2023-06-30 09:37:17 --> 404 Page Not Found: admin/Admin_controller/add_other_source
+ERROR - 2023-06-30 11:39:00 --> 404 Page Not Found: admin/Admin_controller/update_category
+ERROR - 2023-06-30 11:39:05 --> 404 Page Not Found: admin/Admin_controller/update_category
+ERROR - 2023-06-30 11:41:20 --> 404 Page Not Found: Assets/js
+ERROR - 2023-06-30 11:41:20 --> 404 Page Not Found: Assets/css
+ERROR - 2023-06-30 11:42:00 --> 404 Page Not Found: Assets/css
+ERROR - 2023-06-30 11:42:00 --> 404 Page Not Found: Assets/js
+ERROR - 2023-06-30 11:57:54 --> 404 Page Not Found: admin/Admin_controller/create_sub_category
+ERROR - 2023-06-30 12:29:54 --> 404 Page Not Found: admin/Admin_controller/create_tax
+ERROR - 2023-06-30 12:30:18 --> 404 Page Not Found: admin/Admin_controller/create_tax
+ERROR - 2023-06-30 13:01:03 --> 404 Page Not Found: admin/Admin_controller/create_tax_type
+ERROR - 2023-06-30 13:11:45 --> 404 Page Not Found: admin/Admin_controller/create_tax_type
+ERROR - 2023-06-30 13:22:22 --> 404 Page Not Found: admin/Admin_controller/privilege_to_user
+ERROR - 2023-06-30 14:25:52 --> 404 Page Not Found: admin/Admin_controller/all_users
+ERROR - 2023-06-30 14:30:09 --> 404 Page Not Found: admin/User_creation/index
+ERROR - 2023-06-30 14:44:38 --> 404 Page Not Found: Assets/js
+ERROR - 2023-06-30 14:46:50 --> 404 Page Not Found: Assets/js
